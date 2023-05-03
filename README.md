@@ -14,7 +14,7 @@ Le seul paramètre qui puisse relier un bien à son annonce serait l’adresse p
 
 J’ai donc cherché une liste de paramètre qui puissent ensemble former une clé primaire. 
 
-J’ai d’abord pensé aux 3 paramètre suivant  
+J’ai d’abord pensé aux 3 paramètres suivant  
 
 -prix du bien  
 
@@ -63,7 +63,7 @@ Pour regrouper les annonces entre elles, j’ai simplement ajouté tous les lien
 
  
 
-Il est possible que mon algorithme ait regrouper des annonces ne correspond pas au même bien. En effet, si deux biens ont le même prix, le même nombre de mètre carré et le même type de propriété alors ils seront regroupés. 
+Il est possible que mon algorithme ait regrouper des annonces ne correspond pas au même bien. En effet, si deux biens ont le même prix, le même nombre de mètres carrés et le même type de propriété alors ils seront regroupés. 
 
 On aurait pu prendre en compte la variable DEALER_NAME. Il aurait alors fallu utiliser un algorithme qui calcule la similarité entre deux variables string.  
 
