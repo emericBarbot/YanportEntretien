@@ -2,7 +2,7 @@
 
   
 
-  	 ## Stratégie choisie  
+  	 ##Stratégie choisie  
 
   
 
