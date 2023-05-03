@@ -1,8 +1,8 @@
-   	 	#Explication de la solution  
+#                      Explication de la solution  
 
   
 
-  	 ##Stratégie choisie  
+##      Stratégie choisie  
 
   
 
@@ -59,8 +59,7 @@ Finalement, ma clé primaire se compose des paramètres suivants :
 Pour regrouper les annonces entre elles, j’ai simplement ajouté tous les liens et tous les noms de site correspondant à un même bien dans une même ligne. 
 
  
-
-		##Critique 
+##    Critiques
 
  
 
@@ -68,4 +67,4 @@ Il est possible que mon algorithme ait regrouper des annonces ne correspond pas 
 
 On aurait pu prendre en compte la variable DEALER_NAME. Il aurait alors fallu utiliser un algorithme qui calcule la similarité entre deux variables string.  
 
-Cependant je pense que les critères que j’ai utilisés sont suffisants et produisent un nombre d’erreur négligeable. 
+Cependant je pense que les critères que j’ai utilisés sont suffisants et produisent un nombre d’erreurs négligeables. 
