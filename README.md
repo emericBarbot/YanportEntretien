@@ -1,8 +1,8 @@
-   	 	Explication de la solution  
+   	 	#Explication de la solution  
 
   
 
-  	  Stratégie choisie  
+  	 ## Stratégie choisie  
 
   
 
@@ -60,7 +60,7 @@ Pour regrouper les annonces entre elles, j’ai simplement ajouté tous les lien
 
  
 
-		Critique 
+		##Critique 
 
  
 
